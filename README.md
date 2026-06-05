@@ -23,10 +23,22 @@
 </p>
 
 <!-- Donation addresses -->
-<p align="center">
-  <strong>₿ BTC:</strong> <code>bc1qfq5qw0274c9e38f2frtevxcjjtnfefr67xj9xq</code><br />
-  <strong>Ξ ETH:</strong> <code>0xae8ca3f9f6fa9436491cdacfa8d54866232eb47f</code>
-</p>
+<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/btc-qr.png" alt="BTC address QR" width="140" /><br />
+      <strong>₿ BTC</strong><br />
+      <code>bc1qfq5qw0274c9e38f2frtevxcjjtnfefr67xj9xq</code>
+    </td>
+    <td align="center">
+      <img src="assets/eth-qr.png" alt="ETH address QR" width="140" /><br />
+      <strong>Ξ ETH</strong><br />
+      <code>0xae8ca3f9f6fa9436491cdacfa8d54866232eb47f</code>
+    </td>
+  </tr>
+</table>
+</div>
 
 <!-- Profile views counter -->
 <p align="center">
