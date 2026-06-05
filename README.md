@@ -22,10 +22,10 @@
   Buy me a coffee ☕
 </p>
 
-<!-- Donation addresses — replace each REPLACE_WITH_* placeholder with your real public address. -->
+<!-- Donation addresses -->
 <p align="center">
-  <strong>₿ BTC:</strong> <code>REPLACE_WITH_BTC_ADDRESS</code><br />
-  <strong>USDC (Ethereum or Base):</strong> <code>REPLACE_WITH_USDC_ADDRESS</code>
+  <strong>₿ BTC:</strong> <code>bc1qfq5qw0274c9e38f2frtevxcjjtnfefr67xj9xq</code><br />
+  <strong>Ξ ETH:</strong> <code>0xae8ca3f9f6fa9436491cdacfa8d54866232eb47f</code>
 </p>
 
 <!-- Profile views counter -->
