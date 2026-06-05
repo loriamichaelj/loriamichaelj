@@ -4,8 +4,8 @@
   This file lives in a repo named exactly after your GitHub username
   (github.com/loriamichaelj/loriamichaelj) so it shows up on your profile.
 
-  All links filled in. To add Twitter/X later, uncomment the X badge
-  in the "Connect With Me" section and replace YOUR_HANDLE.
+  All links filled in, including the X badge (x.com/0xloria) in the
+  "Connect With Me" section.
 -->
 
 <h3 align="center">Software Developer</h3>
@@ -98,11 +98,9 @@
   <a href="https://loriamichaelj.github.io/resume/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <!-- Twitter/X — uncomment and replace YOUR_HANDLE once you have an account
-  <a href="https://x.com/YOUR_HANDLE" target="_blank">
+  <a href="https://x.com/0xloria" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  -->
   <a href="mailto:mikejloria@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
