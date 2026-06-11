@@ -11,7 +11,7 @@
 <h3 align="center">Software Developer 🛠️</h3>
 
 <p align="center">
-  Building things across many stacks but mainly Python | JS/TS | Cloud Infra 🖥️
+  Building things with tech stacks but mainly Python | JS/TS | Cloud Infra 🖥️
 </p>
 
 <p align="center">
