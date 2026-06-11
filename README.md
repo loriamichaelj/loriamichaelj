@@ -8,10 +8,10 @@
   "Connect With Me" section.
 -->
 
-<h3 align="center">dev</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
-  Building things mainly in Python, JS/TS, Cloud Infra
+  Building things mainly in Python, JS/TS, Cloud Infra 💻
 </p>
 
 <p align="center">
