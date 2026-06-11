@@ -11,10 +11,6 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  "All models are wrong, but some are useful" - P. Box
-</p>
-
-<p align="center">
   Building things across the stack — Python on the back, React on the front, and the cloud in between.
 </p>
 
