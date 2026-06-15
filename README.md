@@ -82,9 +82,9 @@
   <img src="https://github-readme-stats-eight-rho-52.vercel.app/api/top-langs/?username=loriamichaelj&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=loriamichaelj&theme=tokyonight" alt="GitHub streak" />
-</p>
+</p> -->
 
 ---
 
