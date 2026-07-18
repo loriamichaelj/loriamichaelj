@@ -19,7 +19,7 @@
 </p>
 
 <!-- Donation addresses -->
-<div align="center">
+<!-- <div align="center">
 <table align="center">
   <tr>
     <td align="center">
@@ -34,7 +34,7 @@
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 <!-- Profile views counter -->
 <p align="center">
