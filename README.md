@@ -14,9 +14,9 @@
   Building things with Python 🐍 | JS/TS 🖥️📱 | Cloud Infra ☁️
 </p>
 
-<p align="center">
+<!-- <p align="center">
   Buy me a coffee ☕
-</p>
+</p> -->
 
 <!-- Donation addresses -->
 <!-- <div align="center">
