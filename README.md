@@ -100,7 +100,7 @@
   <a href="https://x.com/0xloria" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="https://loriamichaelj.github.io/resume/" target="_blank">
+  <a href="https://michaeljloria.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mikejloria@gmail.com">
