@@ -5,13 +5,25 @@
   (github.com/loriamichaelj/loriamichaelj) so it shows up on your profile.
 
   All links filled in, including the X badge (x.com/0xloria) in the
-  "Connect With Me" section.
+  connect buttons under the tagline.
 -->
 
 <h3 align="center"> Cloud DevOps Engineer 🛠️</h3>
 
 <p align="center">
   Building things with Python 🐍 | JS/TS 🖥️📱 | Cloud Infra ☁️
+</p>
+
+<p align="center">
+  <a href="https://x.com/0xloria" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://michaeljloria.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mikejloria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <!-- <p align="center">
@@ -86,22 +98,6 @@
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=loriamichaelj&theme=tokyonight" alt="GitHub streak" />
 </p> -->
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://x.com/0xloria" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://michaeljloria.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mikejloria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <!--
   Tip: GitHub sanitizes README HTML, but the centered <p>/<h1> tags and
