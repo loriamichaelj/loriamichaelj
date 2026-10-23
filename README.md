@@ -8,7 +8,7 @@
   connect buttons under the tagline.
 -->
 
-<h3 align="center"> Cloud DevOps Engineer 🛠️</h3>
+<h3 align="center"> Platform Engineer 🛠️</h3>
 
 <p align="center">
   Building things with Python 🐍 | JS/TS 🖥️📱 | Cloud Infra ☁️
