@@ -23,9 +23,9 @@
   <a href="https://michaeljloria.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:mikejloria@gmail.com">
+  <!-- <a href="mailto:mikejloria@gmail.com">
     <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a> -->
 </p>
 
 <!-- <p align="center">
